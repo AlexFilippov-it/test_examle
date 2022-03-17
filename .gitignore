@@ -2,3 +2,4 @@
 /env
 /.idea
 fixtures/.pytest_cache
+/.DS_Store
